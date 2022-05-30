@@ -13,5 +13,8 @@
         "node-red-node-watson": "~0.10.x",
         "node-red-dashboard": "~3.x",
         "node-red-contrib-uibuilder": "~5.x"
+    },
+    "engines": {
+        "node": "14.x"
     }
 }
