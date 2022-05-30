@@ -7,6 +7,14 @@
         "nano": "~10.x",
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
-        "node-red": "~2.x"
+        "node-red": "~2.x",
+        "node-red-contrib-cloudantplus": "~2.x",
+        "node-red-contrib-teachable-machine": "~1.x",
+        "node-red-node-watson": "~0.10.x",
+        "node-red-dashboard": "~3.x",
+        "node-red-contrib-uibuilder": "~5.x"
+    },
+    "engines": {
+        "node": "16.x"
     }
 }
