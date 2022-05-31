@@ -18,10 +18,12 @@ Node-REDは、各種APIやセンサー、AI等と連携し、データ処理を�
 * NODE_RED_PASSWORD - Node-REDにログインする際のパスワード
 
 ### Node-REDと同時にインストールする追加ノード
+ダッシュボード、地図、Teachable Machineによる機械学習モデルの利用、obniz連携(IoT)、LINE API、Slack bot、NoSQLデータベースのApache CouchDB/IBM Cloudantとの連携、IBM Watson APIの呼び出し
 - [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard) : 3.1.7
 - [node-red-contrib-ui-upload](https://flows.nodered.org/node/node-red-contrib-ui-upload) : 0.5.2
 - [node-red-contrib-web-worldmap](https://flows.nodered.org/node/node-red-contrib-web-worldmap) : 2.28.1
 - [node-red-contrib-teachable-machine](https://flows.nodered.org/node/node-red-contrib-teachable-machine) : 1.3.1
+- [node-red-contrib-obniz](https://flows.nodered.org/node/node-red-contrib-obniz) : 0.6.2
 - [node-red-contrib-node-line-api](https://www.npmjs.com/package/node-red-contrib-node-line-api) : 0.8.5
 - [node-red-contrib-line-messaging-api](https://flows.nodered.org/node/node-red-contrib-line-messaging-api) : 0.1.11
 - [node-red-contrib-slack](https://flows.nodered.org/node/node-red-contrib-slack) : 2.0.0
